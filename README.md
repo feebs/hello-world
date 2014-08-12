@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-First repos for testing
+I am trying to get to git, so that I can use it for my future programming efforts.
